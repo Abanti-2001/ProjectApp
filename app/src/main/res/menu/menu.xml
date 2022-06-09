@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+    <group>
+    <item
+        android:title="Profile"
+        android:id="@+id/profile"/>
+    <item
+        android:title="Recent Alerts"
+        android:id="@+id/rec_alert"/>
+    <item
+        android:title="Helpdesk"
+        android:id="@+id/helpdesk"/>
+    <item
+        android:title="About Us"
+        android:id="@+id/about_us"/>
+    </group>
+</menu>
